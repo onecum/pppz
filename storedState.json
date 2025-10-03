@@ -1,0 +1,207 @@
+{
+  "ipList": [
+    {
+      "id": 1753253552049,
+      "name": "М ",
+      "phone": "",
+      "createdAt": "2025-07-23T06:52:32.049Z"
+    }
+  ],
+  "orders": {
+    "1753251248880": [],
+    "1753255234125": []
+  },
+  "pvzList": [
+    {
+      "id": 1753255234125,
+      "ipId": 1753253552049,
+      "address": "М",
+      "createdAt": "2025-07-23T07:20:34.125Z"
+    }
+  ],
+  "modelsDatabase": [
+    {
+      "id": 1753251318827,
+      "brand": "Apple",
+      "color": "Черный титан",
+      "model": "iPhone ",
+      "memory": "512GB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productLine": "16 Pro",
+      "productName": "iPhone 16 Pro 512GB Черный титан"
+    },
+    {
+      "id": 1753251318830,
+      "brand": "Apple",
+      "color": "Натуральный титан",
+      "model": "iPhone ",
+      "memory": "1TB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productLine": "16 Pro",
+      "productName": "iPhone 16 Pro 1TB Натуральный титан"
+    },
+    {
+      "id": 1753251318833,
+      "brand": "Apple",
+      "color": "Песочный титан",
+      "model": "iPhone 16 Pro",
+      "memory": "1TB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro 1TB Песочный титан"
+    },
+    {
+      "id": 1753251318834,
+      "brand": "Apple",
+      "color": "Натуральный титан",
+      "model": "iPhone 16 Pro Max",
+      "memory": "512GB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro Max 512GB Натуральный титан"
+    },
+    {
+      "id": 1753251318835,
+      "brand": "Apple",
+      "color": "Черный титан",
+      "model": "iPhone 16 Pro Max",
+      "memory": "512GB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro Max 512GB Черный титан"
+    },
+    {
+      "id": 1753251318836,
+      "brand": "Apple",
+      "color": "Белый титан",
+      "model": "iPhone 16 Pro Max",
+      "memory": "512GB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro Max 512GB Белый титан"
+    },
+    {
+      "id": 1753251318837,
+      "brand": "Apple",
+      "color": "Песочный титан",
+      "model": "iPhone 16 Pro Max",
+      "memory": "512GB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro Max 512GB Песочный титан"
+    },
+    {
+      "id": 1753251318838,
+      "brand": "Apple",
+      "color": "Натуральный титан",
+      "model": "iPhone 16 Pro Max",
+      "memory": "1TB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro Max 1TB Натуральный титан"
+    },
+    {
+      "id": 1753251318839,
+      "brand": "Apple",
+      "color": "Черный титан",
+      "model": "iPhone 16 Pro Max",
+      "memory": "1TB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro Max 1TB Черный титан"
+    },
+    {
+      "id": 1753251318840,
+      "brand": "Apple",
+      "color": "Белый титан",
+      "model": "iPhone 16 Pro Max",
+      "memory": "1TB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro Max 1TB Белый титан"
+    },
+    {
+      "id": 1753251318841,
+      "brand": "Apple",
+      "color": "Песочный титан",
+      "model": "iPhone 16 Pro Max",
+      "memory": "1TB",
+      "createdAt": "2025-07-23T06:15:18.826Z",
+      "productName": "iPhone 16 Pro Max 1TB Песочный титан"
+    }
+  ],
+  "storesDatabase": [],
+  "orderHistory": [
+    {
+      "id": 1753255253196,
+      "pvzId": "1753255234125",
+      "orderNumber": "М",
+      "customer": "",
+      "store": "",
+      "purchaseDate": "",
+      "expectedDeliveryDate": "",
+      "brand": "",
+      "model": "",
+      "productLine": "",
+      "memory": "",
+      "color": "",
+      "quantity": 1,
+      "amount": 0,
+      "hasInquiry": false,
+      "hasClaim": false,
+      "deliveryStatus": true,
+      "cellNumber": "п",
+      "isReturn": false,
+      "overallStatus": "Возврат",
+      "actualDeliveryDate": "2025-07-23",
+      "createdAt": "2025-07-23T07:20:53.196Z",
+      "pvzAddress": "М",
+      "movedToHistoryDate": "2025-07-23"
+    },
+    {
+      "id": 1753255703911,
+      "pvzId": "1753255234125",
+      "orderNumber": "Мии",
+      "customer": "М",
+      "store": "",
+      "purchaseDate": "",
+      "expectedDeliveryDate": "",
+      "brand": "",
+      "model": "",
+      "productLine": "",
+      "memory": "",
+      "color": "",
+      "quantity": 1,
+      "amount": 0,
+      "deliveryStatus": true,
+      "cellNumber": " ",
+      "isReturn": false,
+      "overallStatus": "Возврат Ян",
+      "actualDeliveryDate": "2025-07-23",
+      "statusDate": "2025-07-23T07:28:41.325Z",
+      "createdAt": "2025-07-23T07:28:23.911Z",
+      "pvzAddress": "М",
+      "movedToHistoryDate": "2025-07-23"
+    },
+    {
+      "id": 1753256662180,
+      "pvzId": "1753255234125",
+      "orderNumber": "Ррот",
+      "customer": "",
+      "store": "",
+      "purchaseDate": "",
+      "expectedDeliveryDate": "",
+      "brand": "",
+      "model": "",
+      "productLine": "",
+      "memory": "",
+      "color": "",
+      "quantity": 1,
+      "amount": 0,
+      "deliveryStatus": true,
+      "cellNumber": "и",
+      "isReturn": true,
+      "overallStatus": "Возврат Ян",
+      "actualDeliveryDate": "2025-07-23",
+      "statusDate": "2025-07-23T07:44:35.805Z",
+      "createdAt": "2025-07-23T07:44:22.181Z",
+      "previousStatus": "Готов",
+      "returnDate": "2025-07-23",
+      "pvzAddress": "М",
+      "movedToHistoryDate": "2025-07-23"
+    }
+  ],
+  "toolsData": []
+}
